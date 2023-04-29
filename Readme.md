@@ -38,4 +38,4 @@ To **explore the data**, techniques that have been discussed in class will be us
 - import results of sql queries for further visualisation in python
 
 ### 3. Visualisation
-**Tableau** used to visually explore the data further. The questions have been provided [in this file](https://github.com/ironhack-edu/data_mid_bootcamp_project_regression/blob/master/tableau_regression.md).
+**Tableau** used to visually explore the data further. The questions have been provided [in this file](https://github.com/ironhack-edu/data_mid_bootcamp_project_regression/blob/master/tableau_regression.md)
