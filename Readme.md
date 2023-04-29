@@ -34,7 +34,7 @@ To **explore the data**, techniques that have been discussed in class will be us
  - **data pre-processing** (scaling numerical variables and encoding categorical variables)
  
 ### 2. Creating a DB in MySql
-- answer the Questions in  [SQL Questions file](https://github.com/ironhack-edu/data_mid_bootcamp_project_regression/blob/master/sql_questions_regression.md
+- answer the Questions in  [SQL Questions file](https://github.com/ironhack-edu/data_mid_bootcamp_project_regression/blob/master/sql_questions_regression.md)
 - import results of sql queries for further visualisation in python
 
 ### 3. Visualisation
